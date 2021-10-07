@@ -33,7 +33,7 @@ I performed this usability test from my apartment using my laptop. I used Zoom t
 Here is a link to the moderator script and participant survey.  [Click here](https://forms.gle/iiM6N7NB1Mawc2Qb7)
 
 ## User Testing Video
-The pilot test video recorded on zoom is [here](https://youtu.be/9ouvAAM3S-o)
+Here is the pilot test video recorded on Zoom. [Click here](https://youtu.be/9ouvAAM3S-o)
 
 ## Reflection: Improving User Testing 
 During my pilot test, I learned how important it is for the participant to be fully informed about everything happening during the test. Many different users have different thought processes when navigating websites, so it is important for websites to be as organized and intuitive as possible. Everything went very smoothly except for having to switch back and forth between the google form and DMV website. The tasks I chose were good representations of common actions taken on the website, so it was useful studfy how to simplify doing these tasks. For my UT's in the future, I will make my tasks much more complex and informative so I can assess the website in greater depth. I will add a section of my survey that allows participants write whatever additional information about the website they wish to share. The UT would be stronger if participants had an outlet to express their feelings in their own words rather than filling in multiple choice. 
